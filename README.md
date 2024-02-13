@@ -28,7 +28,7 @@ Steps to install private repository dependency using Yarn.
 
       access-token -> ghp_t9yHXNlmkTakn8kyoId0ohmGoNhzPM3Y 
 
-yarn add https://Mukund:ghp_t9yHXNlmkTakn8kyoId0ohmGoNhzPM3Y@github.com/Mukund/Yarn-react-cache-buster.git 
+      yarn add https://Mukund:ghp_t9yHXNlmkTakn8kyoId0ohmGoNhzPM3Y@github.com/Mukund/Yarn-react-cache-buster.git 
 
  
 
@@ -36,6 +36,7 @@ c. Check package.json file
 
     Private Repository got added in the dependency. 
 
+   ![package.json](/assets/Picture1.png)
  
 
  
@@ -43,9 +44,9 @@ c. Check package.json file
 d. Check node module  
 
    - repo structure of that particular private repository has been updated. 
-
+   ![Node_Module](/assets/Picture2.png)
           
 
 e. In yarn.lock file version of that particular repository has been updated. 
-
+   -   ![yarn.lock](/assets/Picture3.png)
  
